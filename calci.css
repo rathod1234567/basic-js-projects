@@ -1,0 +1,31 @@
+body{
+    display: flex;
+   
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:#FFF7D1;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5px;
+    border:2px solid black;
+    height: 290px;
+    padding: 50px;
+    /* background-image: url("./vk\ copy.jpg"); */
+   
+}
+button{
+    width: 40px;
+    height: 40px;
+    opacity: 0.7;
+
+}
+p{
+    background-color:pink;
+    padding: 10px;
+    opacity: 0.7;
+}

@@ -1,0 +1,19 @@
+div{
+
+    border-radius: 10px;
+    padding: 20px;
+
+}
+#random{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+button{
+    padding: 10px 20px;
+    border-radius: 25px;
+    background:linear-gradient(to left, blue,red,pink,green,yellow,pink, yellow);
+    margin: auto;
+    
+}
